@@ -1,0 +1,10 @@
+.titleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.phoneIcon {
+  display: inline-flex;
+  font-size: 70px;
+}
